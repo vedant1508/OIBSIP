@@ -9,155 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6a82347-403e-42ca-8bfd-06f5ed4f4dc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Download/stopbg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/androidTest/java/com/example/stopwatch/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/java/com/example/stopwatch/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/drawable/stopbg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/app/src/test/java/com/example/stopwatch/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StopWatch/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stopwatch.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/androidTest/java/com/example/todo/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/java/com/example/todo/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/java/com/example/todo/Signin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/java/com/example/todo/Task.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/java/com/example/todo/ToDo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/java/com/example/todo/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/baseline_email_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/baseline_exit_to_app_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/baseline_lock_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/baseline_person_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/baseline_remove_red_eye_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/signin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/signin_screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/signup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/drawable/signup_screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/layout/activity_signin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/layout/activity_to_do.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/app/src/test/java/com/example/todo/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo2/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit Converter.mp4" afterDir="false" />
-    </list>
+    <list default="true" id="c6a82347-403e-42ca-8bfd-06f5ed4f4dc9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,6 +109,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684406528503</updated>
     </task>
+    <task id="LOCAL-00001" summary="Oasis Infobyte">
+      <created>1684917228653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684917228653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Oasis Infobyte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oasis Infobyte" />
   </component>
 </project>
